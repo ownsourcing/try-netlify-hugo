@@ -20,7 +20,8 @@ intro:
   text: >-
     Few people work in isolation. Colleagues, bosses and clients all play key
     roles. Finishing a project successfully means working effectively with this
-    range of people.
+    range of people. How do you integrate them into your learning and
+    implementation plans?
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -35,6 +36,7 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - {}
 values:
   heading: Our values
   text: >-
